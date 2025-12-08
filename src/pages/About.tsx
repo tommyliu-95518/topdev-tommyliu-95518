@@ -44,7 +44,7 @@ const About = () => {
 				<ScrollAnimation>
 					<div className="aspect-square overflow-hidden rounded-2xl">
 						<img
-							src={`/profile/profile.png?t=${Date.now()}`}
+							src={`/profile/picture.png?t=${Date.now()}`}
 							alt="Tommy Liu"
 							className="w-full h-full object-cover hover:scale-105 transition-transform duration-500"
 						/>
