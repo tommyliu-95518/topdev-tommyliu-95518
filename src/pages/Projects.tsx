@@ -53,6 +53,14 @@ const projects = [
 		live: 'https://brainswave.netlify.app/',
 		tags: ['React.js', 'Tailwind CSS', 'JavaScript', 'Vite']
 	},
+	{
+		title: 'Fylehq Clone',
+		description: 'Optimize your expense management with automation, real time spend tracking, and hassle free receipt capture via text messages all on your existing credit cards. A Modern website with Typescript',
+		image: '/projects_img/project-7.png',
+		github: 'https://github.com/tommyliu-95518/Fylehq-Clone',
+		live: 'https://fylehq-clone-by-pritam.netlify.app/',
+		tags: ['CSS', 'TypeScript', 'HTML']
+	},
 ];
 
 const Projects = () => {
