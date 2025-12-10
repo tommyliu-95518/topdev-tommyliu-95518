@@ -61,6 +61,14 @@ const projects = [
 		live: 'https://fylehq-clone-by-pritam.netlify.app/',
 		tags: ['CSS', 'TypeScript', 'HTML']
 	},
+	{
+		title: 'Drysland Game',
+		description: 'Inspired by classic pipe-connection games, Drysland is a relaxing, minimalist puzzle experience where you restore the flow of a river across a parched island by rotating and reconnecting its broken segments to bring water and life back to the land.',
+		image: '/projects_img/project-8.png',
+		github: 'https://github.com/tommyliu-95518/drysland',
+		live: 'https://drysland.vercel.app/',
+		tags: ['Three.js', 'CSS', 'HTML', 'GLSL']
+	},
 ];
 
 const Projects = () => {
